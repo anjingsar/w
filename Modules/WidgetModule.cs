@@ -56,7 +56,7 @@ public class WidgetModule : InteractionModuleBase<SocketInteractionContext>
         {
             Style = ButtonStyle.Link,
             Label = "Authorize",
-            Url = $"https://discord.com/oauth2/authorize?client_id=1509844130082062396&response_type=token&scope=openid+sdk.social_layer"
+            Url = $"https://discord.com/oauth2/authorize?client_id=1520246314699456612&response_type=token&scope=openid+sdk.social_layer"
         };
 
         var lodestoneButton = new ButtonBuilder()
